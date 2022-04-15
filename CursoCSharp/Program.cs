@@ -20,6 +20,7 @@ namespace CursoCSharp {
                 {"Formatando Números - Fundamentos", FormatandoNumero.Executar},
                 {"Conversões - Fundamentos", Conversoes.Executar},
                 {"Operadores Aritméticos - Fundamentos", OperadoresAritméticos.Executar},
+                {"Operadores Relacionais - Fundamentos", OperadoresRelacionais.Executar},
             });
 
             central.SelecionarEExecutar();

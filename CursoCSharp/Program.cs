@@ -74,6 +74,8 @@ namespace CursoCSharp {
 
                 // OO
                 {"Herança - OO", Heranca.Executar},
+                {"Construtor This - OO", ConstrutorThis.Executar},
+                {"Encapsulamento - OO", Encapsulamento.Executar},
             });
 
             central.SelecionarEExecutar();

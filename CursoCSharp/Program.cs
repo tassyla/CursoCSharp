@@ -102,6 +102,7 @@ namespace CursoCSharp {
                 {"Exemplo File Info - API", ExemploFileInfo.Executar},
                 {"Diretórios - API", Diretorios.Executar},
                 {"Exemplo Directory Info - API", ExemploDirectoryInfo.Executar},
+                {"Exemplo Path - API", ExemploPath.Executar},
 
 
             });

@@ -9,7 +9,7 @@ using CursoCSharp.OO;
 using CursoCSharp.MetodosEFuncoes;
 using CursoCSharp.Excecoes;
 using CursoCSharp.Api;
-using CursoCSharp.TopicosAvancados
+using CursoCSharp.TopicosAvancados;
 
 namespace CursoCSharp {
 
@@ -109,6 +109,7 @@ namespace CursoCSharp {
 
                 // Tópicos Avançados
                 {"LINQ1 - Tópicos Avançados", LINQ1.Executar},
+                {"LINQ2 - Tópicos Avançados", LINQ2.Executar},
 
             });
 
